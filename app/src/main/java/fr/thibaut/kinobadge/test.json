@@ -1,0 +1,430 @@
+{
+  "data" : [ {
+    "name" : "Activity",
+    "badges" : [ {
+      "id" : 40,
+      "name" : "Finisher of the Connected Marathon Pour Tous",
+      "description" : "Finisher of the Paris 2024 Connected Marathon Pour Tous Challenge",
+      "action" : "activity_finisher_mptc",
+      "category" : "Activity",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_finisher_mptc-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_finisher_mptc.png"
+      }
+    }, {
+      "id" : 36,
+      "name" : "First multiplayer activity",
+      "description" : "First multiplayer activity done on Kinomap",
+      "action" : "activity_1stmulti",
+      "category" : "Activity",
+      "unlocked_date" : 1735555987,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_1stmulti-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_1stmulti.png"
+      }
+    }, {
+      "id" : 37,
+      "name" : "First multiplayer session scheduled",
+      "description" : "First multiplayer session scheduled on Kinomap",
+      "action" : "activity_1stmulti-organisation",
+      "category" : "Activity",
+      "unlocked_date" : 1744031724,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_1stmulti-organisation-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_1stmulti-organisation.png"
+      }
+    }, {
+      "id" : 8,
+      "name" : "First training",
+      "description" : "First training done on Kinomap",
+      "action" : "activity_1sttraining",
+      "category" : "Activity",
+      "unlocked_date" : 1728655859,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_1sttraining-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_1sttraining.png"
+      }
+    }, {
+      "id" : 2,
+      "name" : "Mont Blanc 4809m",
+      "description" : "4809m total ascent",
+      "action" : "activity_4809montblanc",
+      "category" : "Activity",
+      "unlocked_date" : 1728657430,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_4809montblanc-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_4809montblanc.png"
+      }
+    }, {
+      "id" : 7,
+      "name" : "First hour training",
+      "description" : "1 hour cumulated training time",
+      "action" : "activity_1hour",
+      "category" : "Activity",
+      "unlocked_date" : 1728655859,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_1hour-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_1hour.png"
+      }
+    }, {
+      "id" : 3,
+      "name" : "Kilimandjaro 5892m",
+      "description" : "5892m total ascent",
+      "action" : "activity_5892kilimandjaro",
+      "category" : "Activity",
+      "unlocked_date" : 1728657430,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_5892kilimandjaro-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_5892kilimandjaro.png"
+      }
+    }, {
+      "id" : 6,
+      "name" : "10 hours training",
+      "description" : "10 hours cumulated training time",
+      "action" : "activity_10hours",
+      "category" : "Activity",
+      "unlocked_date" : 1728655859,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_10hours-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_10hours.png"
+      }
+    }, {
+      "id" : 4,
+      "name" : "Everest 8848m",
+      "description" : "8848m total ascent",
+      "action" : "activity_8848everest",
+      "category" : "Activity",
+      "unlocked_date" : 1728657430,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_8848everest-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_8848everest.png"
+      }
+    }, {
+      "id" : 5,
+      "name" : "100 hours training",
+      "description" : "100 hours cumulated training time",
+      "action" : "activity_100hours",
+      "category" : "Activity",
+      "unlocked_date" : 1741017786,
+      "unlocked_percent" : 100,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_100hours-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_100hours.png"
+      }
+    }, {
+      "id" : 19,
+      "name" : "20k cycling",
+      "description" : "First 20k in one cycling activity (over 5 hours)",
+      "action" : "activity_cycling_20k",
+      "category" : "Activity",
+      "unlocked_date" : 1741017798,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_cycling_20k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_cycling_20k.png"
+      }
+    }, {
+      "id" : 20,
+      "name" : "50k cycling",
+      "description" : "First 50k in one cycling activity (over 5 hours)",
+      "action" : "activity_cycling_50k",
+      "category" : "Activity",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_cycling_50k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_cycling_50k.png"
+      }
+    }, {
+      "id" : 17,
+      "name" : "5k running",
+      "description" : "First 5k in one running activity (over 5 hours)",
+      "action" : "activity_running_5k",
+      "category" : "Activity",
+      "unlocked_date" : 1741022732,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_running_5k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_running_5k.png"
+      }
+    }, {
+      "id" : 18,
+      "name" : "10k running",
+      "description" : "First 10k in one running activity (over 5 hours)",
+      "action" : "activity_running_10k",
+      "category" : "Activity",
+      "unlocked_date" : 1741022732,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_running_10k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_running_10k.png"
+      }
+    }, {
+      "id" : 21,
+      "name" : "2k rowing",
+      "description" : "First 2k in one rowing activity (over 5 hours)",
+      "action" : "activity_rowing_2k",
+      "category" : "Activity",
+      "unlocked_date" : 1753433584,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_rowing_2k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_rowing_2k.png"
+      }
+    }, {
+      "id" : 22,
+      "name" : "5k rowing",
+      "description" : "First 5k in one rowing activity (over 5 hours)",
+      "action" : "activity_rowing_5k",
+      "category" : "Activity",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_rowing_5k-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_rowing_5k.png"
+      }
+    } ]
+  }, {
+    "name" : "Community",
+    "badges" : [ {
+      "id" : 25,
+      "name" : "App Lifetime",
+      "description" : "Subscribed to an App Lifetime offer",
+      "action" : "subscription_applifetime",
+      "category" : "Community",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/subscription_applifetime-win.png",
+        "locked" : "https://static.kinomap.com/badges/subscription_applifetime.png"
+      }
+    }, {
+      "id" : 26,
+      "name" : "Video Maker",
+      "description" : "Uploaded at least one activity available for training",
+      "action" : "track_1stvideo",
+      "category" : "Community",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/track_1stvideo-win.png",
+        "locked" : "https://static.kinomap.com/badges/track_1stvideo.png"
+      }
+    } ]
+  }, {
+    "name" : "Event",
+    "badges" : [ {
+      "id" : 23,
+      "name" : "Hammer Series 2018",
+      "description" : "Contestant of the Hammer Series 2018/2019",
+      "action" : "event_hs2018",
+      "category" : "Event",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/event_hs2018-win.png",
+        "locked" : "https://static.kinomap.com/badges/event_hs2018.png"
+      }
+    }, {
+      "id" : 24,
+      "name" : "L Etape du Tour 2016",
+      "description" : "Contestant of the L Etape du Tour 2016",
+      "action" : "event_ledt2016",
+      "category" : "Event",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/event_ledt2016-win.png",
+        "locked" : "https://static.kinomap.com/badges/event_ledt2016.png"
+      }
+    } ]
+  }, {
+    "name" : "Leaderboard",
+    "badges" : [ {
+      "id" : 28,
+      "name" : "King of Kinomap",
+      "description" : "Just the best Kinomap male user of 2018!",
+      "action" : "king2018",
+      "category" : "Leaderboard",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/king2018-win.png",
+        "locked" : "https://static.kinomap.com/badges/king2018.png"
+      }
+    }, {
+      "id" : 29,
+      "name" : "Queen of Kinomap",
+      "description" : "Just the best Kinomap female user of 2018!",
+      "action" : "queen2018",
+      "category" : "Leaderboard",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/queen2018-win.png",
+        "locked" : "https://static.kinomap.com/badges/queen2018.png"
+      }
+    } ]
+  }, {
+    "name" : "Social",
+    "badges" : [ {
+      "id" : 30,
+      "name" : "Have friends",
+      "description" : "Follow at least 1 person",
+      "action" : "user_1stfollow",
+      "category" : "Social",
+      "unlocked_date" : 1744895442,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_1stfollow-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_1stfollow.png"
+      }
+    }, {
+      "id" : 31,
+      "name" : "Local legend",
+      "description" : "Followed at least by 1 person",
+      "action" : "user_1stfollowed",
+      "category" : "Social",
+      "unlocked_date" : 1741083104,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_1stfollowed-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_1stfollowed.png"
+      }
+    }, {
+      "id" : 32,
+      "name" : "Photogenic",
+      "description" : "Uploaded an avatar/profile picture",
+      "action" : "user_avatar",
+      "category" : "Social",
+      "unlocked_date" : 1728655759,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_avatar-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_avatar.png"
+      }
+    }, {
+      "id" : 33,
+      "name" : "Runkeeper user",
+      "description" : "Linked to a RunKeeper account",
+      "action" : "user_runkeeper",
+      "category" : "Social",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_runkeeper-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_runkeeper.png"
+      }
+    }, {
+      "id" : 34,
+      "name" : "Strava",
+      "description" : "Linked to a Strava account",
+      "action" : "user_strava",
+      "category" : "Social",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_strava-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_strava.png"
+      }
+    }, {
+      "id" : 35,
+      "name" : "Training Peaks user",
+      "description" : "Linked to a Training Peaks account",
+      "action" : "user_training_peaks",
+      "category" : "Social",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/user_training_peaks-win.png",
+        "locked" : "https://static.kinomap.com/badges/user_training_peaks.png"
+      }
+    } ]
+  }, {
+    "name" : "Travel",
+    "badges" : [ {
+      "id" : 11,
+      "name" : "Trained in Africa",
+      "description" : "Trained on a Africa based video",
+      "action" : "activity_trained_AF",
+      "category" : "Travel",
+      "unlocked_date" : 1737039445,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_AF-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_AF.png"
+      }
+    }, {
+      "id" : 12,
+      "name" : "Trained in Asia",
+      "description" : "Trained on a Asia based video",
+      "action" : "activity_trained_AS",
+      "category" : "Travel",
+      "unlocked_date" : 1736863396,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_AS-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_AS.png"
+      }
+    }, {
+      "id" : 13,
+      "name" : "Trained in Europe",
+      "description" : "Trained on a Europe based video",
+      "action" : "activity_trained_EU",
+      "category" : "Travel",
+      "unlocked_date" : 1728655859,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_EU-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_EU.png"
+      }
+    }, {
+      "id" : 14,
+      "name" : "Trained in North America",
+      "description" : "Trained on a North America based video",
+      "action" : "activity_trained_NA",
+      "category" : "Travel",
+      "unlocked_date" : 1734090332,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_NA-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_NA.png"
+      }
+    }, {
+      "id" : 15,
+      "name" : "Trained in Oceania",
+      "description" : "Trained on a Oceania based video",
+      "action" : "activity_trained_OC",
+      "category" : "Travel",
+      "unlocked_date" : 1736780630,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_OC-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_OC.png"
+      }
+    }, {
+      "id" : 16,
+      "name" : "Trained in South America",
+      "description" : "Trained on a South America based video",
+      "action" : "activity_trained_SA",
+      "category" : "Travel",
+      "unlocked_date" : null,
+      "unlocked_percent" : null,
+      "images_url" : {
+        "unlocked" : "https://static.kinomap.com/badges/activity_trained_SA-win.png",
+        "locked" : "https://static.kinomap.com/badges/activity_trained_SA.png"
+      }
+    } ]
+  } ],
+  "unlocked_content" : [ ]
+}
