@@ -1,8 +1,7 @@
-package fr.thibaut.kinobadge
+package fr.thibaut.kinobadge.model
 
-data class ReponseApi(
-    val data: List<Category>,
-    val unlocked_content: List<Any>
+data class KinomapBadge(
+    val data: List<Category>
 )
 
 data class Category(
